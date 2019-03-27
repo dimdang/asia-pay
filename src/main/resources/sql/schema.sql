@@ -10,7 +10,6 @@ token bytea,
 token_id varchar(255),
 user_name varchar(255)
 );
-
 -- auto-generated definition
 create table table_user
 (
